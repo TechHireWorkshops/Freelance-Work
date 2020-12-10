@@ -20,6 +20,10 @@ It's very true that finding work is about who you know. Many jobs are word of mo
 
 Your boot camp colleague may be your best bet, but there are plenty of places to meet other coders. Look at Meetup to find groups your interested in, and attend events with like-minded devs.  You can also contribute to discussions in forums like reddit or stackoverflow.  Connections often come from unexpected places.
 
+Check out lunch club, where you're matched up with other devs for a meet and discussion to advance your career and make connections.  Use the link here with the invite code kindly provided to us by Weily Lang for faster matching
+
+[https://lunchclub.com/?invite_code=weily](https://lunchclub.com/?invite_code=weily)
+
 You can also feel free to reach out to former colleagues and employers, especially if they're in a tech context.  It might feel a little gauche to send out emails asking for work (maybe it even is), but a lot of jobs are generated that way.  Don't be afraid to ask for things you want.
 
 ### Freelance Websites
